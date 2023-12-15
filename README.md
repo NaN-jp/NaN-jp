@@ -10,7 +10,7 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NaN-jp&theme=onedark&rank=-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaN-jp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaN-jp&layout=compact&show_icons=true&theme=onedark" />

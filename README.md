@@ -2,12 +2,6 @@
   <a href="https://github.com/NaN-jp">
     <img height="20" src="https://img.shields.io/github/followers/NaN-jp?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/NaN-jp">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/NaN-jp/posts.svg" />
-  </a>
-  <//qiita.com/NaN-jp">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/NaN-jp/contributions.svg" />
-  </a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaN-jp&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)

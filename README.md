@@ -4,6 +4,7 @@
   </a>
 </p>
 <!-- ランク指定するとき &rank=SECRET,SSS,SS,S,AAA,AA,A,B,C) -->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=NaN-jp&theme=onedark](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
